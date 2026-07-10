@@ -1,6 +1,6 @@
 # mamesiva64.github.io
 
-すし / ゆるふわアルパカ牧場 (Yurufuwa Alpaca Farm) のポータルサイト。
+すしさん / ゆるふわアルパカ牧場 (Yurufuwa Alpaca Farm) のポータルサイト。
 
 🦙 https://mamesiva64.github.io/
 

@@ -1,4 +1,4 @@
-# すし (Sushi) — Profile
+# すしさん (Sushi-san) — Profile
 
 ## 基本情報
 
@@ -59,6 +59,11 @@ unity1week(1週間ゲームジャム)などの短期開発が中心。
 | [らくがき回転バトル](https://unityroom.com/games/rakugaki_battle) | 5.0万 | 133 |
 | [鍛冶伝説～武器を作って戦うゲーム～](https://unityroom.com/games/blacksmith) | 3.9万 | 11 |
 | [みんなのドミノ オンライン](https://unityroom.com/games/domino) | 7.0千 | 72 |
+
+ハイライト:
+
+- 「らくがき回転バトル」の開発動画ポストが X で **270万インプレッション** を記録
+  ([該当ポスト](https://x.com/mamesiva64/status/1364599428888227852): 「描いたらくがき同士でたたかうゲーム出来そう。 #unity1week #gamedev」)
 
 - ※ 一部作品はオンライン機能(mBaaS)のサービス終了により動作しない場合あり
 - ※ サイト掲載用スクリーンショット: TBD(後で貼る)
