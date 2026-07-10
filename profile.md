@@ -54,11 +54,11 @@ unity1week(1週間ゲームジャム)などの短期開発が中心。
 
 代表作:
 
-| 作品 | プレイ数 | いいね |
-|---|---|---|
-| [らくがき回転バトル](https://unityroom.com/games/rakugaki_battle) | 5.0万 | 133 |
-| [鍛冶伝説～武器を作って戦うゲーム～](https://unityroom.com/games/blacksmith) | 3.9万 | 11 |
-| [みんなのドミノ オンライン](https://unityroom.com/games/domino) | 7.0千 | 72 |
+| 作品 | 公開 | プレイ数 | いいね |
+|---|---|---|---|
+| [らくがき回転バトル](https://unityroom.com/games/rakugaki_battle) | 2021/02 | 5.0万 | 133 |
+| [鍛冶伝説～武器を作って戦うゲーム～](https://unityroom.com/games/blacksmith) | 2018/09 | 3.9万 | 11 |
+| [みんなのドミノ オンライン](https://unityroom.com/games/domino) | 2019/03 | 7.0千 | 72 |
 
 ハイライト:
 
