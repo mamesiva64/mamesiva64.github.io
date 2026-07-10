@@ -59,7 +59,16 @@ header.site-header {
 
 /* ---- hero ---- */
 .hero { text-align: center; padding: 72px 0 48px; }
-.hero .emoji { font-size: 3.4rem; display: block; margin-bottom: 8px; }
+.hero .avatar {
+  width: 96px; height: 96px; image-rendering: pixelated;
+  display: block; margin: 0 auto 14px;
+  border-radius: 20px; background: var(--accent-soft);
+  padding: 8px; border: 1px solid var(--border);
+}
+.icon-img {
+  width: 20px; height: 20px; image-rendering: pixelated;
+  vertical-align: -4px; margin-right: 2px;
+}
 .hero h1 { font-size: 2.1rem; letter-spacing: 0.04em; }
 .hero .title { color: var(--accent); font-weight: 600; margin-top: 6px; }
 .hero .circle-name { color: var(--text-sub); font-size: 0.95rem; margin-top: 4px; }
