@@ -64,6 +64,8 @@ unity1week(1週間ゲームジャム)などの短期開発が中心。
 
 - 「らくがき回転バトル」の開発動画ポストが X で **270万インプレッション** を記録
   ([該当ポスト](https://x.com/mamesiva64/status/1364599428888227852): 「描いたらくがき同士でたたかうゲーム出来そう。 #unity1week #gamedev」)
+- [WaterSandpit](https://alpacatech.itch.io/watersandpit)(itch.io / Windows)—
+  NVIDIA Flex の物理演算で水と砂を触って遊べるシミュレーター。本人お気に入り。
 
 - ※ 一部作品はオンライン機能(mBaaS)のサービス終了により動作しない場合あり
 - ※ サイト掲載用スクリーンショット: TBD(後で貼る)
