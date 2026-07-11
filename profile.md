@@ -26,7 +26,7 @@ C/C++, Python, C#, Java, Objective-C, Swift, asm (LASM, 65816)
 Windows, macOS, Ubuntu, Android, iOS, Yocto Linux
 
 ### 技術 / ライブラリ
-OpenCV, DirectX, Unity, Unreal Engine
+OpenGL, DirectX, Unity, Unreal Engine
 
 ### AI 関連
 - 顔検出・顔認証・車両検出
