@@ -208,4 +208,8 @@ footer {
   .hero h1 { font-size: 1.7rem; }
   .nav ul { gap: 12px; }
   .nav a { font-size: 0.82rem; }
+  .featured-compact { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .work-card .body { padding: 10px 10px 12px; }
+  .work-card .name { font-size: 0.85rem; }
+  .work-card .stats { font-size: 0.75rem; gap: 8px; flex-wrap: wrap; }
 }

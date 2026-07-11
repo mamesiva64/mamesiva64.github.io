@@ -58,6 +58,8 @@ unity1week(1週間ゲームジャム)などの短期開発が中心。
 |---|---|---|---|
 | [らくがき回転バトル](https://unityroom.com/games/rakugaki_battle) | 2021/02 | 5.0万 | 133 |
 | [鍛冶伝説～武器を作って戦うゲーム～](https://unityroom.com/games/blacksmith) | 2018/09 | 3.9万 | 11 |
+| [パカパカアルパカ探検隊](https://unityroom.com/games/pakapakaalpaca) | 2019/10 | 7.8千 | 50 |
+| [パカパカアルパカ邀撃隊](https://unityroom.com/games/alpacadef) | 2020/08 | 5.6千 | 52 |
 | [みんなのドミノ オンライン](https://unityroom.com/games/domino) | 2019/03 | 7.0千 | 72 |
 
 ハイライト:
