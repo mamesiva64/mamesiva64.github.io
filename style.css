@@ -203,17 +203,6 @@ footer {
   color: var(--text-sub); font-size: 0.85rem;
 }
 
-/* ---- career page ---- */
-.page-title { padding: 56px 0 8px; }
-.page-title h1 { font-size: 1.8rem; }
-.page-title p { color: var(--text-sub); margin-top: 6px; }
-.career-section { padding: 28px 0; }
-.career-section h2 { font-size: 1.2rem; margin-bottom: 16px; }
-.career-detail { display: grid; gap: 14px; }
-.career-detail .card h3 { font-size: 1.02rem; margin-bottom: 6px; color: var(--accent); }
-.career-detail .card p { font-size: 0.92rem; color: var(--text-sub); }
-.career-detail .card .tags { margin-top: 10px; }
-
 @media (max-width: 600px) {
   .hero { padding: 48px 0 32px; }
   .hero h1 { font-size: 1.7rem; }

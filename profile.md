@@ -45,7 +45,7 @@ OpenCV, DirectX, Unity, Unreal Engine
 - Unity / Unreal Engine アプリ開発
 - AI 関連開発(顔認証、車載 AI、LLM 応用)
 
-詳細は [career.html](career.html) を参照。
+※ 業務経歴の詳細整理は今後の課題(顔検出・画像処理は自前実装の高精度ライブラリの経験あり。安易にOpenCV等と紐付けない)。
 
 ## 制作実績(趣味のゲーム開発)
 

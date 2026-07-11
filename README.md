@@ -7,7 +7,6 @@
 ## 構成
 
 - [index.html](index.html) — ポータル本体(プロフィール / 制作物 / 技術 / 経歴 / リンク)
-- [career.html](career.html) — 業務経歴の詳細ページ
 - [profile.md](profile.md) — プロフィールまとめ(テキスト版)
 - [style.css](style.css) — 共通スタイル(ライト/ダーク対応)
 
